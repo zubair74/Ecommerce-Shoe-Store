@@ -3,6 +3,7 @@
 
 Ecommerce Shoe Store app with React JS on the front end (client folder) and Express as server. MongoDB atlas is used as database
 Project Description: 
+
 1.Products have been stored in the database and fetched through rest api
 2. As users sign up their username and passwords are saved in the database and are used authenticate users when they login later
 3. As users add products to cart their products are saved in the database with their username and password and can be fetched when user login from another device
@@ -14,5 +15,7 @@ Steps:
 4. Node app.js
 5. cd client and npm i
 6. npm start
+
+
 
  
