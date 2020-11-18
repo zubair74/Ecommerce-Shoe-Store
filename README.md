@@ -1,7 +1,7 @@
 # Ecommerce Shoe Store
 
 
-Ecommerce Shoe Store app with React JS on the front end (client folder) and Express as server. MongoDB is used as server
+Ecommerce Shoe Store app with React JS on the front end (client folder) and Express as server. MongoDB atlas is used as database
 
 Steps:
 1. Clone this repository
